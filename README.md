@@ -20,7 +20,7 @@ Linux 데스크탑 구성을 더욱 빠르고 편리하게 하기 위해 Git 저
 
 ```sh
 $ mkdir -p ~/.fonts
-$ git clone 'https://github.com/unstabler/CheeseSkel-fonts ~/.fonts/cheeseskel-fonts'
+$ git clone 'https://github.com/unstabler/CheeseSkel-fonts.git' ~/.fonts/cheeseskel-fonts
 ```
 
 # FONTS INCLUDED
